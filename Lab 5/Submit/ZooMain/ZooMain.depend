@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1666666369 source:c:\users\agnes tan\onedrive\documents\education\ntu\z_y2s1 modules\sc2002\lab\lab 5\submit\zoomain\main.cpp
+	<iostream>
+	<string>
+	"animal.h"
+	"childAnimal.h"
+
+1666666547 c:\users\agnes tan\onedrive\documents\education\ntu\z_y2s1 modules\sc2002\lab\lab 5\submit\zoomain\animal.h
+	<iostream>
+	<string>
+
+1666545199 c:\users\agnes tan\onedrive\documents\education\ntu\z_y2s1 modules\sc2002\lab\lab 5\submit\zoomain\childanimal.h
+	<iostream>
+	<string>
+	"animal.h"
+
